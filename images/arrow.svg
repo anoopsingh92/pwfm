@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>2_img/ico/arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M18.4710623,12.0727495 L13.1012544,6.86836607 C12.6879115,6.46775676 12.6591483,5.78777744 13.0371899,5.34958111 C13.415232,4.91138409 14.0567824,4.88106966 14.4701247,5.28167834 L20.6701848,11.2907369 C21.1141579,11.7210327 21.1091953,12.4639891 20.6595513,12.8875854 L14.4594912,18.728478 C14.0408686,19.1228499 13.3997843,19.0829675 13.0276034,18.6391437 C12.6554232,18.1953209 12.6932645,17.5158413 13.1118879,17.1214686 L18.4710623,12.0727495 Z M3,12.0000002 C3,11.4027518 3.45830671,10.923077 4.03396233,10.923077 L17.3946091,10.923077 C17.9684209,10.923077 18.4285714,11.4019041 18.4285714,12.0000002 C18.4285714,12.5972485 17.9702647,13.0769233 17.3946091,13.0769233 L4.03396233,13.0769233 C3.46015056,13.0769233 3,12.5980962 3,12.0000002 Z" id="path-1"></path>
+    </defs>
+    <g id="2_img/ico/arrow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="arrow" fill="#00A29E" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <g id="1_bg/color/grey_light" mask="url(#mask-2)" fill="#CDCDCD">
+            <rect id="Rectangle" x="0" y="0" width="24" height="24"></rect>
+        </g>
+    </g>
+</svg>

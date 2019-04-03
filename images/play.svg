@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>2_img/ico/play</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M16,32 C7.163444,32 0,24.836556 0,16 C0,7.163444 7.163444,0 16,0 C24.836556,0 32,7.163444 32,16 C32,24.836556 24.836556,32 16,32 Z M16,30 C23.7319865,30 30,23.7319865 30,16 C30,8.2680135 23.7319865,2 16,2 C8.2680135,2 2,8.2680135 2,16 C2,23.7319865 8.2680135,30 16,30 Z M13.4527773,9.28023047 L23.0062523,14.5955191 C24.3603847,15.3489208 24.397307,16.6361261 23.0876058,17.4699525 L13.3714238,23.6557973 C12.063207,24.4886785 11,23.9075372 11,22.3556709 L11,10.7254756 C11,9.17004572 12.0981458,8.52655107 13.4527773,9.28023047 Z M13,11.3170293 L13,21.5213349 L21.553296,16.075846 L13,11.3170293 Z" id="path-1"></path>
+    </defs>
+    <g id="2_img/ico/play" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <mask id="mask-2" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+        <use id="Combined-Shape" fill="#8A8A8A" fill-rule="nonzero" xlink:href="#path-1"></use>
+        <g id="1_bg/color/grey" mask="url(#mask-2)" fill="#8A8A8A">
+            <rect id="Rectangle" x="0" y="0" width="32" height="32"></rect>
+        </g>
+    </g>
+</svg>
