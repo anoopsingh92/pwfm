@@ -132,6 +132,9 @@
 .track-table table{
   width: 1000px;
 }
+.pwfm-services .pwfm-rows:nth-child(2n+3){
+  clear: both;
+}
 }
 
 @media (max-width: 767px){
