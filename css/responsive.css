@@ -235,7 +235,12 @@
     width: 40px;
     height: 40px;
 }
+.pwfm-services .thumbnail-content{
+  min-height: inherit;
 }
+}
+
+
 @media (max-width: 479px){
 .site-track-view .nav>li>a{
   font-size: 18px;
@@ -262,4 +267,8 @@
 }
 .site-footer .footer-socila-link a {
     padding: 7px;
+}
+.pwfm-services .col-xs-6{
+  width: 100%;
+}
 }
