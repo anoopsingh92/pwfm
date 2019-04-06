@@ -132,6 +132,17 @@
 .track-table table{
   width: 1000px;
 }
+.pwfm-header.site-header .nav>li>a {
+    padding: 10px 10px;
+    font-size: 15px;
+}
+.pwfm-header .navbar-toggle {
+    border-color: #62c2d0;
+}
+.pwfm-header .navbar-toggle .icon-bar {
+    background: #62c2d0;
+}
+
 }
 
 @media (max-width: 767px){
@@ -237,6 +248,15 @@
 }
 .pwfm-services .thumbnail-content{
   min-height: inherit;
+}
+.pwfm-header.site-header .nav {
+    background: #62c2d0;
+}
+.pwfm-header.site-header .nav>li>a.active, .pwfm-header.site-header .nav>li>a:hover {
+    color: #EEE;
+}
+.pwfm-header.site-header .nav .dropdown-menu>li>a {
+    color: #ffffff;
 }
 }
 
