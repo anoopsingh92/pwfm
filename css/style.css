@@ -743,6 +743,12 @@ img{
   box-shadow: 0 0 10px #999;
   font-family: 'robotobold';
 }
+.pwfm-services .thumbnail.thumbnail-content{
+  padding: 0;
+  box-shadow: none;
+  background: none;
+  border: none;
+}
 .pwfm-services .thumbnail img{
   width: 100%;
 }
@@ -792,9 +798,9 @@ img{
   padding: 15px;
   font-family: 'robotobold';
 }
-/*.pwfm-services .thumbnail-content{
+.pwfm-services .pwfm-services-unit-inner .thumbnail-package{
 	min-height: 460px;
-}*/
+}
 .pwfm-services .thumbnail-content-cat a{
   color: #62c2d0;
   padding-left: 10px;
